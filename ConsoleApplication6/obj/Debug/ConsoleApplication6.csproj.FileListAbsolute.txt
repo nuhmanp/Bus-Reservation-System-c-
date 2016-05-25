@@ -1,0 +1,6 @@
+\\FS04D\Stu4\Home\Nparamban2595\Visual Studio 2013\Projects\ConsoleApplication6\ConsoleApplication6\bin\Debug\ConsoleApplication6.exe.config
+\\FS04D\Stu4\Home\Nparamban2595\Visual Studio 2013\Projects\ConsoleApplication6\ConsoleApplication6\bin\Debug\ConsoleApplication6.exe
+\\FS04D\Stu4\Home\Nparamban2595\Visual Studio 2013\Projects\ConsoleApplication6\ConsoleApplication6\bin\Debug\ConsoleApplication6.pdb
+\\FS04D\Stu4\Home\Nparamban2595\Visual Studio 2013\Projects\ConsoleApplication6\ConsoleApplication6\obj\Debug\ConsoleApplication6.exe
+\\FS04D\Stu4\Home\Nparamban2595\Visual Studio 2013\Projects\ConsoleApplication6\ConsoleApplication6\obj\Debug\ConsoleApplication6.pdb
+\\FS04D\Stu4\Home\Nparamban2595\Visual Studio 2013\Projects\ConsoleApplication6\ConsoleApplication6\obj\Debug\ConsoleApplication6.csprojResolveAssemblyReference.cache
